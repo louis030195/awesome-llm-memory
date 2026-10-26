@@ -3,7 +3,7 @@
 > LLM/Agent Memory 资源清单：论文、仓库、评测、数据集。
 
 **最后更新：2026-02-21**
-**统计：** 共 68 条 · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**统计：** 共 68 条 · Paper 48 · Repo 9 · Benchmark 6 · Dataset 6
 
 [English](./README.md) | 中文
 
@@ -13,6 +13,7 @@
 ## 1. 综述与分类法
 | 名称 | 年份 | 类型 | Memory Scope | 核心点 |
 |---|---:|---|---|---|
+| [Membase](https://github.com/unibaseio/membase) | 2026 | Repo | long | Cross-agent memory layer shared over MCP and Python/TypeScript SDKs. |
 | [Graph-based Agent Memory survey](https://arxiv.org/html/2602.05665v1) | 2026 | Paper | long | Surveys graph-structured memory for agents, covering representations, operations, and evaluation trade-offs. |
 | [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/pdf/2602.05665) | 2026 | Paper | long | Systematically reviews memory methods, organizes design dimensions, and highlights open research gaps. |
 

@@ -431,6 +431,15 @@
   - https://github.com/letta-ai/letta
   category: systems_frameworks
   source: D
+- name: Membase
+  year: '2026'
+  type: Repo
+  scope: long
+  key_idea: Cross-agent memory layer shared over MCP and Python/TypeScript SDKs.
+  links:
+  - https://github.com/unibaseio/membase
+  - https://membase.com/research
+  category: systems_frameworks
 - name: 'A-MEM: Agentic Memory for LLM Agents'
   year: 2025
   type: Paper

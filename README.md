@@ -3,7 +3,7 @@
 > Curated resources for LLM/Agent memory: papers, repos, benchmarks, and datasets.
 
 **Last updated: 2026-02-21**
-**Stats:** 68 entries · Paper 48 · Repo 8 · Benchmark 6 · Dataset 6
+**Stats:** 69 entries · Paper 48 · Repo 9 · Benchmark 6 · Dataset 6
 
 English | [中文](./README.zh-CN.md)
 
@@ -13,6 +13,7 @@ English | [中文](./README.zh-CN.md)
 ## 1. Surveys & Taxonomies
 | Name | Year | Type | Memory Scope | Key Idea |
 |---|---:|---|---|---|
+| [Membase](https://github.com/unibaseio/membase) | 2026 | Repo | long | Cross-agent memory layer shared over MCP and Python/TypeScript SDKs. |
 | [Graph-based Agent Memory survey](https://arxiv.org/html/2602.05665v1) | 2026 | Paper | long | Surveys graph-structured memory for agents, covering representations, operations, and evaluation trade-offs. |
 | [Graph-based Agent Memory: Taxonomy, Techniques, and Applications](https://arxiv.org/pdf/2602.05665) | 2026 | Paper | long | Systematically reviews memory methods, organizes design dimensions, and highlights open research gaps. |
 
